@@ -1,3 +1,7 @@
+# typed: false
+# frozen_string_literal: true
+
+# install-aab formula
 class InstallAab < Formula
   desc "Bash script that can be used to install AAB files into connected Android devices"
   homepage "https://github.com/igorcferreira/install-aab"
