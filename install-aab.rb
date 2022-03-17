@@ -7,6 +7,7 @@ class InstallAab < Formula
   license "Apache-2.0"
   sha256 "507901881669ec13b7254f55a5d61b2e17a0c7ca7d68453bb8db23c0ec6bf560"
   url "https://github.com/igorcferreira/install-aab/archive/refs/tags/1.0.0.tar.gz"
+  head "https://github.com/igorcferreira/install-aab.git", branch: "main"
 
   depends_on "openjdk"
   depends_on "bundletool"
