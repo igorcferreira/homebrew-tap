@@ -8,7 +8,7 @@ class InstallAab < Formula
   url "https://github.com/igorcferreira/install-aab/releases/download/1.0.1/install-aab"
   sha256 "85e16577b5954a7b9bac74a38d14270a3c1e2fab7a8fcfe164d92cdfb28938b7"
   license "Apache-2.0"
-  head "https://github.com/igorcferreira/install-aab.git", branch: "main"
+  head "https://github.com/igorcferreira/install-aab.git", tag: "1.0.1"
 
   depends_on "bundletool"
 
