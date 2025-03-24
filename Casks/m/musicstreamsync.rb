@@ -2,8 +2,8 @@
 #                https://docs.brew.sh/Adding-Software-to-Homebrew#cask-stanzas
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 cask "musicstreamsync" do
-    version "1.0.6"
-    sha256 "1a152de9c6f4f01e62e855058df54cf1229585e1703bd22748dbc694200f0e7d"
+    version "1.0.7"
+    sha256 "4836bc3ddfcde9fd57babe11bbb4230e69dacd15efa0916ec2dd241a7c84aea4"
 
     url "https://github.com/igorcferreira/MusicStreamSync/releases/download/#{version}/MusicStreamSync.zip",
         verified: "github.com/igorcferreira/MusicStreamSync/"
