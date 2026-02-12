@@ -5,10 +5,10 @@
 class Ghaction < Formula
   desc "CLI tool to trigger and monitor GitHub Actions workflows"
   homepage "https://github.com/igorcferreira/GHActionTrigger"
-  url "https://github.com/igorcferreira/GHActionTrigger/releases/download/v1.0.1/ghaction-v1.0.1-macos-universal.tar.gz"
-  sha256 "09c02b8a12b3f0779e260a9df1c5f9a790a95a4a8d719bb8a10a88f1265ea33e"
+  url "https://github.com/igorcferreira/GHActionTrigger/releases/download/v1.0.2/ghaction-v1.0.2-macos-universal.tar.gz"
+  sha256 "dff778491640874df7d5e533a31f353a9d2866bd6447d635e7ce384e543a099a"
   license "MIT"
-  version "1.0.1"
+  version "1.0.2"
 
   def install
     bin.install "ghaction"
